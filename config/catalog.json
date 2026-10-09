@@ -1,0 +1,47 @@
+{
+  "apps": [
+    {
+      "id": "absensi",
+      "project": "eracoderlab/apps-store",
+      "name": "Absensi",
+      "version": "1.0.6",
+      "apkSize": 24117090,
+      "downloads": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/eracoderlab/apps-distribution/main/apks/absensi/absensi-v1.0.6.apk",
+      "shortDescription": "Sistem presensi digital berbasis GPS & kamera untuk kemudahan absensi harian.",
+      "description": "Solusi presensi mandiri yang praktis dan akurat untuk seluruh karyawan.\n\nFitur Unggulan:\n• Validasi GPS presisi tinggi\n• Verifikasi foto selfie kamera\n• Sinkronisasi otomatis ke cloud\n• Rekap riwayat kehadiran harian\n• Desain antarmuka cepat dan hemat kuota",
+      "icon": "https://gitlab.com/apps-store/absensi/-/raw/main/assets/icon.png",
+      "category": "Productivity",
+      "featured": true,
+      "developer": "Sinertitek",
+      "website": "https://absensi.sinertitek.my.id",
+      "packageName": "id.co.sintitek.absensi",
+      "screenshots": [
+        "https://gitlab.com/apps-store/absensi/-/raw/main/assets/screenshots/home.png",
+        "https://gitlab.com/apps-store/absensi/-/raw/main/assets/screenshots/absensi.png",
+        "https://gitlab.com/apps-store/absensi/-/raw/main/assets/screenshots/riwayat.png"
+      ]
+    },
+    {
+      "id": "noteme",
+      "project": "eracoderlab/apps-store",
+      "name": "NoteMe",
+      "version": "1.0.0",
+      "apkSize": 18285062,
+      "downloads": 0,
+      "downloadUrl": "https://raw.githubusercontent.com/eracoderlab/apps-distribution/main/apks/noteme/noteme-v1.0.0.apk",
+      "shortDescription": "Catatan Berwarna & To-Do Checklist ala ColorNote",
+      "description": "NoteMe adalah aplikasi memo cepat, daftar centang to-do, dan catatan berwarna-warni dengan dukungan Cloud Backup Google dan Dark Mode.",
+      "icon": "https://raw.githubusercontent.com/eracoderlab/apps-distribution/main/assets/icons/noteme.png",
+      "category": "Productivity",
+      "featured": true,
+      "developer": "EraCoder Lab",
+      "website": "https://github.com/eracoderlab/apps-store",
+      "packageName": "com.noteme.app",
+      "screenshots": [
+        "https://example.com/screenshots/noteme_1.png",
+        "https://example.com/screenshots/noteme_2.png"
+      ]
+    }
+  ]
+}
